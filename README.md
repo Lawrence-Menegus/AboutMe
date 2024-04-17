@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning at **East Stroudsburg University of Pennsylvania**
 
-- 👨‍💻 All of my projects are available at [https://www.lawrencemenegus.com/](https://www.lawrencemenegus.com/)
-
 - 💬 Ask me about **Artificial Intelligence, Data Science and Machine learning**
 
 - 📫 How to reach me **lawrencemenegus@gmail.com**
