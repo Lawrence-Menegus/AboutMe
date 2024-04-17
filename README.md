@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawrence Menegus</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Machine Learning/Data/AI Engineer</h3>
 
 - 🌱 I’m currently learning at **East Stroudsburg University of Pennsylvania**
 
