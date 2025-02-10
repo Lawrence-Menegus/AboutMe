@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, Data Science and Machine learning**
 
-- 📫 How to reach me **lawrencemenegus@gmail.com**
+- Check out My Repositories 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
